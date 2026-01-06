@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/Leadstack"
+		},
+		{
+			"path": "../../leadstack_starter (1)/js"
+		},
+		{
+			"path": "../../leadstack_starter (1)/css"
+		},
+		{
+			"path": "../../leadstack_starter (1)/backend"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Leadstack"
+	}
+}
